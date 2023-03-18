@@ -1,0 +1,29 @@
+verb body
+verb change
+a
+verb cognition
+a
+verb communication
+a
+verb competition
+a
+verb consumption
+a
+verb contact
+a
+verb creation
+a
+verb emotion
+a
+verb motion
+a
+verb perception
+a
+verb possession
+a
+verb social
+a
+verb stative
+a
+verb weather
+a

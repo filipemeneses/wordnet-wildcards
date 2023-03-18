@@ -1,0 +1,634 @@
+absolute scale
+abundance
+academic relation
+active
+active voice
+additive inverse
+adult intelligence
+adversative conjunction
+affine transformation
+affinity
+agnation
+agreement
+albedo
+alchemy
+alliance
+alt
+altitude
+anaphoric relation
+angular position
+antagonism
+antecedent
+antipodal
+antipodal opposition
+antipode
+antithesis
+antonymy
+applicability
+apposition
+aspect
+aspect ratio
+association
+asynchronism
+asynchrony
+attitude
+attorney client relation
+balance
+bank depositor relation
+base
+baseline
+basis
+batting average
+bearing
+beaufort scale
+betting odds
+bilateral descent
+billionth
+birth
+blood kinship
+bond
+bonding
+borderline intelligence
+breadth index
+bridge
+brotherhood
+business relation
+cardinal compass point
+case agreement
+case fatality proportion
+case to infection proportion
+case to infection ratio
+causality
+celestial latitude
+celsius scale
+centigrade scale
+cephalic index
+change
+chemistry
+chronology
+circular function
+clientage
+cogency
+cognation
+commensalism
+commensurateness
+common ground
+common mood
+communication
+comparison
+compass north
+compass point
+competition
+complementarity
+complementation
+component
+component part
+comprehension
+concatenation
+concord
+conditional relation
+confidential adviser advisee relation
+conflict
+conjugation
+conjunction
+connectedness
+connection
+connexion
+consanguinity
+conservator ward relation
+content
+continuous tense
+contradiction
+contradictoriness
+contradictory
+contrariety
+contrary
+contrast
+control
+coordinating conjunction
+coordination
+copulative conjunction
+coreference
+correlation
+correlativity
+correspondence
+cos
+cosec
+cosecant
+cosine
+cotan
+cotangent
+cranial index
+dealings
+dec
+declarative
+declarative mood
+declension
+declination
+depression
+descent
+desynchronisation
+desynchronization
+desynchronizing
+detail
+dialectic
+diametrical opposition
+difference
+direct contrast
+direction
+director stockholder relation
+disjunctive conjunction
+doctor patient relation
+due east
+due north
+due south
+due west
+durative
+durative aspect
+e
+east
+east by north
+east by south
+east northeast
+east southeast
+ebn
+ebs
+efficiency
+eighteenth
+eighth
+eightieth
+el
+elevation
+eleventh
+employee turnover
+enantiomorphism
+enation
+ene
+ese
+executor heir relation
+exponential
+exponential curve
+exponential equation
+exponential expression
+exponential function
+exponential series
+extraneousness
+f number
+facial index
+fact mood
+factor of safety
+fahrenheit scale
+family relationship
+fatherhood
+female bonding
+fiduciary relation
+fielding average
+fifteenth
+fifth
+fiftieth
+filiation
+first
+focal ratio
+footing
+forerunner
+former
+fortieth
+foundation
+fourteenth
+fourth
+frequency
+frontage
+fuel consumption rate
+function
+future perfect
+future perfect tense
+future progressive
+future progressive tense
+gas mileage
+gasoline mileage
+gauge
+gender agreement
+germaneness
+golden mean
+golden section
+gradable opposition
+gradient
+graduated table
+grammatical relation
+grass roots
+gravity gradient
+ground
+haematocrit
+hematocrit
+high spot
+highlight
+holonymy
+horizontal
+hospital occupancy
+hotel occupancy
+human relationship
+hundredth
+hypernymy
+hyponymy
+i q
+identity
+identity element
+identity operator
+imaginative comparison
+immateriality
+imperative
+imperative mood
+imperfect
+imperfect tense
+imperfective
+imperfective aspect
+implication
+inapplicability
+inchoative aspect
+incidence
+inclusion
+incompatibility
+inconsistency
+index
+index of refraction
+indicative
+indicative mood
+inflection
+inflexion
+intelligence quotient
+interdependence
+interdependency
+international scale
+interpersonal chemistry
+interrelatedness
+interrelation
+interrelationship
+interrogative
+interrogative mood
+intransitiveness
+intransitivity
+inverse
+inverse function
+involvement
+iq
+irrelevance
+irrelevancy
+isometry
+item
+jussive mood
+kelvin scale
+kinship
+kinship by marriage
+kronecker delta
+last
+latter
+lawyer client relation
+leeward
+leeward side
+leftover
+legal relation
+limiting
+line of descent
+lineage
+linear operator
+linguistic relation
+link
+linkage
+load factor
+loading
+logarithmic scale
+logical implication
+logical relation
+loss ratio
+mach number
+magnetic north
+magnification
+magnitude
+magnitude relation
+male bonding
+map
+mapping
+margin of error
+margin of safety
+marital bed
+marital relationship
+materiality
+maternal infant bonding
+maternity
+mathematical function
+mathematical relation
+matrilineage
+mechanical advantage
+medical relation
+member
+mercalli scale
+meronymy
+metric
+metric function
+mileage
+millionth
+mirror image relation
+modality
+mode
+modification
+mohs scale
+mood
+morbidity
+motherhood
+multiplicative inverse
+mutual affection
+mutual exclusiveness
+mutual opposition
+mutual understanding
+mutualism
+mutuality
+mutualness
+n
+nbe
+nbw
+ne
+nebe
+nebn
+nexus
+nineteenth
+ninetieth
+ninth
+nne
+nnw
+nor east
+norm
+nor nor east
+nor nor west
+north
+north by east
+north by west
+north northeast
+north northwest
+northeast
+northeast by east
+northeast by north
+northwest
+northwest by north
+northwest by west
+nor west
+number agreement
+number one
+nurse patient relation
+nw
+nwbn
+nwbw
+obligation
+occupancy rate
+odds
+operator
+opposite
+oppositeness
+opposition
+optative
+optative mood
+order of magnitude
+ordered series
+orientation
+orthogonal opposition
+orthogonality
+output to input ratio
+p e ratio
+packed cell volume
+paradigm
+parasitism
+parentage
+parity
+part
+part to whole relation
+particular
+partner relation
+passive
+passive voice
+past perfect
+past perfect tense
+past progressive
+past progressive tense
+paternity
+patrilineage
+pct
+per centum
+percent
+percentage
+perfect
+perfect tense
+perfective
+perfective aspect
+perfective tense
+perpendicularity
+person agreement
+personal relation
+personal relationship
+pertinence
+pertinency
+phylogenetic relation
+pluferfect tense
+pluperfect
+point
+polar opposition
+polarity
+political relation
+politics
+portion
+power loading
+present perfect
+present perfect tense
+present progressive
+present progressive tense
+preterit
+preterite
+prevalence
+price competition
+price war
+price to earnings ratio
+productivity
+professional relation
+progressive
+progressive aspect
+progressive tense
+proportion
+proportionality
+proportionateness
+qualifying
+quantitative relation
+quarter
+quotient
+rankine scale
+rapport
+ratio
+reaumur scale
+receiver creditor relation
+reciprocal
+reciprocality
+reciprocity
+reference to
+reflection
+reflective power
+reflexiveness
+reflexivity
+refractive index
+regard to
+relatedness
+relation to
+relations
+relationship
+relative frequency
+relative humidity
+relative incidence
+relevance
+relevancy
+remainder
+remnant
+repugnance
+residual
+residue
+residuum
+resonance
+respect to
+respiratory quotient
+rest
+restrictiveness
+reverse
+richter scale
+rotation
+s
+s n
+safety factor
+safety margin
+sbe
+sbw
+scale
+scale of measurement
+se
+sebe
+sebs
+sec
+secant
+second
+semantic relation
+series
+seventeenth
+seventh
+seventieth
+sharing
+sign
+signal noise
+signal noise ratio
+signal to noise
+signal to noise ratio
+silver cord
+sin
+sine
+sisterhood
+sistership
+sixteenth
+sixth
+sixtieth
+sliding scale
+sou east
+sou sou east
+sou sou west
+south
+south by east
+south by west
+south southeast
+south southwest
+southeast
+southeast by east
+southeast by south
+southwest
+southwest by south
+southwest by west
+sou west
+span loading
+speed
+sse
+ssw
+standard of measurement
+steprelationship
+stoichiometry
+stop number
+subjunctive
+subjunctive mood
+subordinating conjunction
+subordination
+subpart
+substance
+superordination
+sw
+swbs
+swbw
+symbiosis
+sympathy
+synchroneity
+synchronicity
+synchronisation
+synchronism
+synchronization
+synchronizing
+synchrony
+synonymity
+synonymousness
+synonymy
+tan
+tangent
+teacher student relation
+temperature gradient
+temperature scale
+temporal relation
+tenth
+tertium quid
+third
+thirteenth
+thirtieth
+thousandth
+threshold function
+time constant
+time sharing
+to leeward
+to windward
+transformation
+transitiveness
+transitivity
+translation
+trigonometric function
+trim
+trophobiosis
+troponymy
+trustee beneficiary relation
+turnover
+turnover rate
+twelfth
+twentieth
+unconnectedness
+unemployment rate
+ungradable opposition
+unilateral descent
+unit
+unrelatedness
+vacancy rate
+vertical
+voice
+w
+wage scale
+wage schedule
+wbn
+wbs
+weather side
+weatherboard
+west
+west by north
+west by south
+west northwest
+west southwest
+whole to part relation
+wind scale
+windward
+windward side
+wing loading
+wnw
+wsw

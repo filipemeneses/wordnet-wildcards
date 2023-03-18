@@ -1,0 +1,608 @@
+abnegate
+ace
+act
+address
+advance
+aggress
+aggroup
+aim
+ambuscade
+ambush
+angle
+ante
+arm
+arrest
+assail
+assault
+atom bomb
+atomise
+atomize
+attack
+avenge
+back
+backstop
+bait
+bandy
+barnstorm
+barricade
+barricado
+base
+battle
+bear down
+beat
+beat out
+beleaguer
+beset
+besiege
+best
+bet
+bet on
+better
+bias
+bird
+birdwatch
+blast
+blaze
+blaze away
+blindside
+blitz
+blitzkrieg
+block
+block off
+blockade
+bluff
+bluff out
+boat race
+bomb
+bomb out
+bombard
+bowl
+brail
+break
+break down
+breast
+brigade
+build up
+bulldog
+bully off
+bulwark
+bushwhack
+c
+caddie
+caddy
+call up
+campaign
+cannon
+cannonade
+capitulate
+carpet bomb
+carry
+cast
+castle
+catch
+catch up with
+champion
+charge
+charm
+cheat
+check
+checkmate
+chicane
+chickenfight
+chicken fight
+chop
+chouse
+chuck up the sponge
+circumvallate
+circumvent
+combat
+compete
+complete
+concede
+confront
+conquer
+conscript
+contain
+contend
+convert
+count out
+counterattack
+countermine
+counterstrike
+course
+cover
+crab
+cradle
+crew
+cricket
+criticise
+criticize
+croquet
+crossruff
+crump
+crusade
+crush
+curl
+cut down
+cut out
+cut to ribbons
+d
+defeat
+defend
+deflect
+defuse
+demilitarise
+demilitarize
+demob
+demobilise
+demobilize
+demolish
+deploy
+destroy
+develop
+dice
+die
+direct
+disarm
+discharge
+dive bomb
+dogfight
+double up
+double team
+down
+draft
+draw
+draw a bead on
+drive
+drive back
+drive in
+drop
+drop by the wayside
+drop off
+drop out
+drop kick
+duel
+e
+eagle
+ebb
+eliminate
+emulate
+encounter
+enlist
+enter
+equalise
+equalize
+exceed
+exit
+expel
+extend oneself
+face
+face off
+falcon
+fall back
+fall behind
+fall by the wayside
+feather
+fence
+fence in
+fend
+ferret
+feud
+field
+fight
+fight back
+fight down
+fight off
+fire
+firebomb
+fish
+fistfight
+fix
+flyfish
+fly fish
+forearm
+fork
+fort
+fortify
+foul
+fowl
+foxhunt
+front
+fullback
+fumble
+function
+fuse
+fusillade
+gage
+gain
+gain ground
+gamble
+game
+gang
+gang up
+garrison
+gas
+get
+get ahead
+get back
+get even
+get over
+get the best
+get the better of
+get the jump
+gird
+give up
+glide bomb
+go
+go down
+go for
+go off
+go to war
+golf
+grass
+group
+grouse
+guard
+gun
+gun down
+hack
+hamper
+handicap
+harass
+harpoon
+have the best
+hawk
+hem in
+hinder
+hit
+hold
+hold back
+hold off
+hold out
+hole up
+home in
+homer
+hook
+horse race
+hunt
+hunt down
+hydrogen bomb
+immobilise
+immobilize
+immunise
+immunize
+inactivate
+invade
+jack
+jacklight
+jockey
+join battle
+joust
+jump
+keep pace
+keep step
+keep up
+kick
+kill oneself
+kneecap
+let drive
+let fly
+letter bomb
+level
+levy
+lie in wait
+look out
+loose off
+lose
+lurch
+lurk
+machine gun
+make headway
+make peace
+man
+maneuver
+manoeuver
+manoeuvre
+master
+match
+mate
+meet
+militarise
+militarize
+mine
+misfire
+misplay
+mobilise
+mobilize
+mop up
+mothproof
+move
+muster in
+muster out
+nail
+net fish
+neutralise
+neutralize
+nose
+nuke
+occupy
+officiate
+open
+open fire
+operate
+oppose
+outbrave
+outcry
+outdo
+outdraw
+outfight
+outflank
+outfox
+outgeneral
+outgo
+outgrow
+out herod
+outmaneuver
+outmanoeuvre
+outmarch
+outmatch
+outpace
+outperform
+outplay
+outpoint
+outrange
+outrival
+outroar
+outsail
+outscore
+outsell
+outshine
+outshout
+outsmart
+outstrip
+outvie
+outweigh
+outwit
+overcome
+overexert oneself
+overmaster
+overpower
+overprotect
+overreach
+overrun
+overshoot
+overtake
+overtrump
+overwhelm
+palisade
+par
+parlay
+parry
+participate
+pattern bomb
+pay back
+pay off
+pelt
+pepper
+pin
+pip
+pit
+pitch
+place
+place kick
+play
+play off
+play out
+poach
+point
+pool
+pop
+post
+press
+prevail
+promote
+protect
+pull
+pull ahead
+pump
+punt
+put in
+put out
+quarterback
+quit
+rabbit
+race
+rack up
+rail
+raise
+rally
+range in
+reach
+rearm
+re arm
+reassail
+rebuff
+recalcitrate
+recede
+recruit
+referee
+relinquish
+remain down
+remilitarise
+remilitarize
+repel
+replay
+repulse
+rerun
+resist
+retaliate
+retire
+revenge
+revoke
+rise
+rival
+romp
+root
+rotate
+rout
+rout out
+ruff
+rule in
+rule out
+run
+run off
+rush
+safeguard
+savage
+scallop
+scollop
+scoop
+score
+screen
+screw
+scupper
+seal
+seal off
+see
+seine
+send
+serve
+set
+set on
+set upon
+settle
+shaft
+shame
+shark
+sharpshoot
+shell
+shield
+shoot
+shoot craps
+show
+shrimp
+shuttlecock
+sic
+side
+sign up
+skip bomb
+skirmish
+skittle
+skunk
+slice
+smash
+snipe
+snooker
+soldier
+spreadeagle
+spread eagle
+square
+staff
+stake
+stalemate
+stand
+stand firm
+stand out
+stand up
+start
+station
+steal
+steamroll
+steamroller
+still fish
+still hunt
+stockade
+stop
+storm
+strafe
+strain
+strike
+strike back
+strike out
+strive
+stroke
+struggle
+stump
+subdue
+subject
+submarine
+submit
+surmount
+surpass
+surprise
+surrender
+surround
+swallow
+sweep
+swing
+tackle
+take
+take aim
+take arms
+take on
+take the bull by the horns
+take the cake
+take the count
+take the field
+take up arms
+tally
+target
+team
+team up
+teargas
+tee off
+test
+throw in
+throw in the towel
+tie
+tilt
+torpedo
+tourney
+track down
+train
+trawl
+tree
+trigger
+triumph
+troll
+trounce
+trump
+try for
+tug
+turn
+turn back
+turtle
+umpire
+unarm
+unblock
+underplay
+undershoot
+upset
+upstage
+vanquish
+vie
+volley
+wager
+walk
+walk over
+wall
+wallop
+war
+ward
+ward off
+waylay
+weightlift
+weight lift
+whale
+whelk
+whip
+whistlestop
+whomp
+win
+win back
+withstand
+worst
+wrestle
+yield
+zap
+zero in

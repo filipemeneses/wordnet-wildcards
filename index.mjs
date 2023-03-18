@@ -21,7 +21,9 @@ const parseWordnetFile = (lines) => {
 
   lines.forEach((line) => {
     const tabCount = getTabsCount(line.text);
-    line.text = snakeCase(line.text.trim()).replace(/_/g, ' ');
+    line.text = snakeCase(
+      line.text.split('(')[0].trim(),
+    );
 
     if (tabCount === currentTabCount) {
       if (lists[tabCount - 1]) {
@@ -77,8 +79,9 @@ const createFiles = (nodes, currentPath = '', parentNode) => {
       if (parsedNodes.has(parentNode)) return;
 
       const wildcards = parentNode.children.map((node) => (
-        node.text
+        node.text.replace(/_/g, ' ')
       )).join('\n');
+
       parsedNodes.add(parentNode);
 
       const fullPath = resolve(
@@ -95,9 +98,6 @@ const createFiles = (nodes, currentPath = '', parentNode) => {
         resolve(fullPath, `${parentNode.text}.txt`),
         wildcards,
       );
-
-      console.log(`creating folder ${fullPath}`, index, currentPath);
-      console.log('reached last node', wildcards);
       return;
     }
 

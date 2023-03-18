@@ -1,0 +1,1859 @@
+abamp
+abampere
+abcoulomb
+abfarad
+abhenry
+abohm
+absolute frequency
+absolute majority
+absolute value
+absolute viscosity
+absorptance
+absorption coefficient
+absorption unit
+abvolt
+abwatt
+acceleration unit
+accretion
+ace
+acid value
+acre
+acre inch
+acre foot
+addend
+addition
+admiralty mile
+advantage
+afghan monetary unit
+afghani
+agate line
+agora
+air mile
+albanian monetary unit
+aleph nought
+aleph null
+aleph zero
+algebraic number
+algerian centime
+algerian dinar
+algerian monetary unit
+aliquant
+aliquant part
+aliquot
+aliquot part
+all get out
+allocation unit
+amp
+ampere
+ampere hour
+ampere minute
+ampere second
+ampere turn
+angolan monetary unit
+angstrom
+angstrom unit
+angular unit
+anna
+apothecaries ounce
+apothecaries pound
+apothecaries unit
+apothecaries weight
+ar
+arcdegree
+archine
+arcminute
+arcsecond
+ardeb
+are
+area unit
+argentine monetary unit
+armenian monetary unit
+armful
+arpent
+arroba
+asper
+astronomical unit
+astronomy unit
+at
+atm
+atmosphere
+atomic mass unit
+atomic number
+au
+augend
+aught
+aurar
+austral
+australian dollar
+austrian monetary unit
+austrian schilling
+avo
+avogadro number
+avogadros number
+avoirdupois
+avoirdupois unit
+avoirdupois weight
+azerbaijani monetary unit
+b
+b t u
+b th u
+bad block
+bag
+bagful
+bahamian dollar
+bahrain dinar
+bahrainian monetary unit
+baht
+baisa
+baiza
+bakers dozen
+balboa
+ban
+bandwidth
+bangladeshi monetary unit
+bar
+bar absolute
+barbados dollar
+barn
+barnful
+barrel
+barrelful
+barrels
+barrow
+barrowful
+barye
+baryon number
+base
+basin
+basinful
+basket
+basketful
+batch
+bath
+battalion
+baud
+baud rate
+bbl
+beaufort scale
+bel
+belarusian monetary unit
+belgian franc
+belize dollar
+benin franc
+bermuda dollar
+bhutanese monetary unit
+billion
+billions
+billionth
+billy ho
+billyo
+billyoh
+bin
+binary digit
+binful
+biquadrate
+biquadratic
+birdie
+birr
+bit
+block
+blood count
+board foot
+board measure
+board of trade unit
+boatload
+bob
+body count
+body length
+bogey
+bolivar
+bolivian monetary unit
+boliviano
+boltzmanns constant
+botswana monetary unit
+bottle
+bottleful
+bowl
+bowlful
+box
+boxcars
+boxful
+brace
+brazilian monetary unit
+breakage
+breathing room
+breathing space
+brinell number
+british capacity unit
+british imperial system
+british monetary unit
+british pound
+british shilling
+british system
+british thermal unit
+brix scale
+brunei dollar
+btu
+bucket
+bucketful
+bugger all
+bulgarian monetary unit
+bulk modulus
+burkina faso franc
+burundi franc
+bushel
+busload
+butat
+butut
+byte
+c
+cable
+cable length
+cables length
+calorie
+cambodian monetary unit
+cameroon franc
+can
+canadian dollar
+candela
+candle
+candlepower unit
+canful
+capacitance unit
+capacity
+capacity measure
+capacity unit
+cape verde escudo
+cape verde monetary unit
+capful
+captain hicks
+carat
+cardinal
+cardinal number
+carful
+carload
+cartload
+carton
+cartonful
+case
+caseful
+cask
+caskful
+catch
+cattie
+catty
+cayman islands dollar
+cc
+cd
+cedi
+cent
+cental
+centare
+centas
+centavo
+centesimo
+centiliter
+centilitre
+centime
+centimeter
+centimetre
+centimo
+centner
+central african republic franc
+centred
+century
+cgs
+cgs system
+chadian franc
+chain
+chaldron
+charge unit
+check bit
+chetrum
+chilean monetary unit
+chilean peso
+chiliad
+chinese monetary unit
+chlorinity
+chon
+ci
+cicero
+cinque
+cipher
+circular measure
+circulating decimal
+circulation
+cl
+clearance
+cm
+coefficient
+coefficient of absorption
+coefficient of drag
+coefficient of elasticity
+coefficient of expansion
+coefficient of friction
+coefficient of mutual induction
+coefficient of reflection
+coefficient of self induction
+coefficient of viscosity
+colombian monetary unit
+colombian peso
+colon
+column inch
+common denominator
+common divisor
+common factor
+common fraction
+common measure
+common multiple
+complement
+complex fraction
+complex number
+complex quantity
+composite number
+compound fraction
+compound number
+computer memory unit
+conductance unit
+congius
+congo franc
+constant
+constant of gravitation
+constant of proportionality
+containerful
+content
+continued fraction
+conto
+conversion factor
+copeck
+cord
+cordage
+cordoba
+correction
+cosmological constant
+coss
+costa rican colon
+costa rican monetary unit
+cote divoire franc
+coulomb
+count
+couple
+couplet
+cran
+craps
+crate
+crateful
+crith
+crore
+crumb
+cruzeiro
+cu ft
+cu in
+cubage unit
+cuban monetary unit
+cuban peso
+cubature unit
+cube
+cube root
+cubic centimeter
+cubic centimetre
+cubic content unit
+cubic decimeter
+cubic decimetre
+cubic foot
+cubic inch
+cubic kilometer
+cubic kilometre
+cubic measure
+cubic meter
+cubic metre
+cubic millimeter
+cubic millimetre
+cubic yard
+cubit
+cup
+cupful
+curie
+current unit
+cutoff
+cwt
+cypher
+cypriot monetary unit
+cypriot pound
+cytotoxicity
+czech monetary unit
+d
+dab
+dag
+dal
+dalasi
+dam
+danish krone
+danish monetary unit
+daraf
+db
+deal
+decade
+decagram
+decaliter
+decalitre
+decameter
+decametre
+decibel
+decigram
+deciliter
+decilitre
+decimal
+decimal digit
+decimal fraction
+decimeter
+decimetre
+definite quantity
+degree
+degree celsius
+degree centigrade
+degree day
+degree fahrenheit
+dekagram
+dekaliter
+dekalitre
+dekameter
+dekametre
+deluge
+denier
+denominator
+dessertspoon
+dessertspoonful
+dessiatine
+deuce
+deuce ace
+deutsche mark
+deutschmark
+dg
+diddley
+diddly
+diddlyshit
+diddly shit
+diddlysquat
+diddly squat
+difference
+digit
+dinar
+diopter
+dirham
+dish
+dishful
+displacement unit
+dissociation constant
+distich
+dividend
+divisor
+djibouti franc
+dkg
+dkl
+dkm
+dl
+dm
+dobra
+dol
+dollar
+dollop
+dominican dollar
+dominican monetary unit
+dominican peso
+dong
+doppelzentner
+dosage
+dose
+double digit
+double eagle
+double bogey
+doubleton
+dozen
+dozens
+drachm
+drachma
+drag coefficient
+dram
+dreg
+driblet
+drop
+droplet
+dry measure
+dry pint
+dry quart
+dry unit
+duad
+duck
+ducks egg
+duet
+duo
+dustpan
+dustpanful
+dutch florin
+dutch monetary unit
+dyad
+dynamic viscosity
+dyne
+e
+eagle
+ecuadoran monetary unit
+egyptian monetary unit
+egyptian pound
+eight
+eighteen
+eighter
+eighter from decatur
+eighth
+eighty
+el salvadoran colon
+el salvadoran monetary unit
+elastance unit
+elastic modulus
+elbow room
+electromagnetic unit
+electron volt
+electrostatic unit
+eleven
+em
+emu
+en
+energy unit
+engineers chain
+english system
+ennead
+enough
+epha
+ephah
+epkwele
+equatorial guinea monetary unit
+equilibrium constant
+equivalent binary digit factor
+erg
+erlang
+escudo
+estonian monetary unit
+ethiopian monetary unit
+euro
+eurodollar
+ev
+expansivity
+explosive unit
+exposure
+extremum
+eyedrop
+eye drop
+eyrir
+f
+factor
+factor of proportionality
+fanny adams
+farad
+fathom
+femtometer
+femtometre
+femtovolt
+fen
+fermi
+few
+fibonacci number
+field capacity
+field strength unit
+fifteen
+fifth
+fifth part
+fifty
+fifty percent
+figure
+fiji dollar
+fill
+filler
+fils
+fin
+finger
+fingerbreadth
+fingers breadth
+finnish monetary unit
+firkin
+first
+fistful
+fistmele
+five
+five hundred
+fivesome
+fixed point number
+flask
+flaskful
+floating point number
+flock
+flood
+florin
+fluid drachm
+fluid dram
+fluid ounce
+fluidounce
+fluidram
+flux density unit
+flux unit
+foot
+footcandle
+footer
+foot lambert
+foot pound
+foot poundal
+footstep
+foot ton
+force unit
+forint
+formatted capacity
+forty
+four
+fourscore
+foursome
+fourteen
+fourth
+fourth part
+fourth power
+fraction
+fractional monetary unit
+frail
+franc
+french franc
+frequency
+ft
+fthm
+ft l
+fuck all
+fudge factor
+fundamental measure
+fundamental quantity
+furlong
+g
+gabon franc
+gain
+gal
+gallon
+gambian monetary unit
+game
+gamma
+gas constant
+gauss
+gb
+gee
+geographical mile
+geometric pace
+georgian monetary unit
+german mark
+german monetary unit
+g force
+ghanian monetary unit
+gi
+gigabyte
+gilbert
+gill
+glass
+glassful
+gm
+gobs
+good deal
+googol
+googolplex
+goose egg
+gourde
+grad
+grade
+grain
+gram
+gram atom
+gram calorie
+gram molecule
+gram atomic weight
+gramme
+grand
+gravitational constant
+great deal
+great gross
+great hundred
+greatest common divisor
+greatest common factor
+greek drachma
+greek monetary unit
+grenada dollar
+groschen
+gross
+gross ton
+grosz
+guarani
+guatemalan monetary unit
+guilder
+guinea bissau monetary unit
+guinea bissau peso
+guinean franc
+guinean monetary unit
+gulden
+gunters chain
+guyana dollar
+h
+h p
+hair
+hairsbreadth
+hairs breadth
+haitian centime
+haitian monetary unit
+haler
+half
+half a dozen
+half mile
+halfpennyworth
+hand
+handbreadth
+handful
+handsbreadth
+hao
+haporth
+hatful
+haul
+head
+head count
+headcount
+headful
+headroom
+headspace
+headway
+heap
+heaps
+heat unit
+hectare
+hectogram
+hectoliter
+hectolitre
+hectometer
+hectometre
+heller
+henry
+heptad
+hexad
+hg
+highest common factor
+hin
+hint
+hl
+hm
+hogshead
+homer
+honduran monetary unit
+hong kong dollar
+horsepower
+horsepower hour
+houseful
+houseroom
+hp
+hryvnia
+hubble constant
+hubbles constant
+hundred
+hundred thousand
+hundredth
+hundredweight
+hungarian monetary unit
+i
+icelandic krona
+icelandic monetary unit
+ii
+iii
+illumination unit
+imaginary number
+imaginary part
+imaginary part of a complex number
+imperial capacity unit
+imperial gallon
+improper fraction
+in
+inch
+increase
+indefinite quantity
+indian monetary unit
+indian rupee
+indonesian monetary unit
+inductance unit
+infinitude
+information measure
+integer
+international ampere
+international candle
+international nautical mile
+international system
+international system of units
+inti
+inundation
+ionic charge
+iota
+iranian dinar
+iranian monetary unit
+iranian rial
+iraqi dinar
+iraqi monetary unit
+irish monetary unit
+irish pound
+irish punt
+irrational number
+israeli monetary unit
+italian lira
+italian monetary unit
+iv
+ivory coast franc
+ix
+j
+jack
+jamaican dollar
+japanese monetary unit
+jar
+jarful
+jiao
+jillions
+jordanian dinar
+jordanian monetary unit
+jot
+joule
+jug
+jugful
+k
+kapeika
+karat
+kazakhstani monetary unit
+kb
+keg
+kegful
+kelvin
+kenyan monetary unit
+kenyan shilling
+kettle
+kettleful
+key
+kg
+khoum
+kilderkin
+kilo
+kilobyte
+kilocalorie
+kilogram
+kilogram calorie
+kilogram meter
+kiloliter
+kilolitre
+kilometer
+kilometre
+kiloton
+kilovolt
+kilovolt ampere
+kilowatt
+kilowatt hour
+kina
+kip
+kiribati dollar
+klick
+km
+knot
+kobo
+kopeck
+kopek
+kopiyka
+kor
+koruna
+kos
+krona
+krone
+kroon
+kuru
+kuwaiti dinar
+kuwaiti dirham
+kuwaiti monetary unit
+kv
+kw
+kwacha
+kwai
+kwanza
+kw hr
+kyat
+kyrgyzstani monetary unit
+l
+lakh
+lambert
+land mile
+langley
+laotian monetary unit
+lapful
+large calorie
+large indefinite amount
+large indefinite quantity
+large integer
+large number
+lari
+lashings
+last
+lats
+latvian monetary unit
+lb
+lbf
+lea
+league
+leash
+lebanese monetary unit
+lebanese pound
+lebensraum
+lek
+lempira
+leone
+lepton
+lesotho monetary unit
+leu
+lev
+li
+liberian dollar
+libyan dinar
+libyan dirham
+libyan monetary unit
+light hour
+light minute
+light second
+light unit
+light year
+ligne
+likuta
+lilangeni
+limit
+limit point
+limitation
+linage
+line
+lineage
+linear measure
+linear unit
+link
+liquid measure
+liquid unit
+lira
+litas
+liter
+lithuanian monetary unit
+litre
+little
+little joe
+little phoebe
+living space
+lm
+load
+loading
+loads
+long dozen
+long hundred
+long hundredweight
+long measure
+long ton
+lot
+loti
+lots
+love
+lower limit
+lumen
+luminance unit
+luminous flux unit
+luminous intensity unit
+lumma
+lux
+luxembourg franc
+lwei
+lx
+lxx
+lxxx
+m
+ma
+macao monetary unit
+madagascar franc
+magic number
+magnetic flux
+magnetic flux unit
+magnetisation
+magnetization
+magnetomotive force unit
+magneton
+majority
+malawi kwacha
+malawian monetary unit
+malaysian monetary unit
+mali franc
+maltese lira
+maltese monetary unit
+manat
+marginal utility
+mark
+markka
+mass
+mass number
+mass unit
+match
+match point
+maund
+mauritanian monetary unit
+mauritian monetary unit
+mauritian rupee
+maximum
+maxwell
+mb
+mcg
+measuring block
+measuring unit
+mediety
+meg
+megabit
+megabyte
+megaflop
+megaton
+megawatt
+megohm
+mesh
+mess
+meter
+metical
+metre
+metric
+metric capacity unit
+metric grain
+metric hundredweight
+metric linear unit
+metric system
+metric ton
+metric unit
+metric weight unit
+mexican monetary unit
+mexican peso
+mflop
+mg
+mho
+mi
+mickle
+microbar
+microgauss
+microgram
+micrometer
+micromicron
+micromillimeter
+micromillimetre
+micron
+microradian
+microvolt
+mil
+mile
+miler
+miles per gallon
+military pace
+milliampere
+milliard
+millibar
+millicurie
+millidegree
+millifarad
+milligram
+millihenry
+milliliter
+millilitre
+millime
+millimeter
+millimeter of mercury
+millimetre
+millimicron
+milline
+million
+million floating point operations per second
+million instructions per second
+millions
+millionth
+milliradian
+millivolt
+milliwatt
+minim
+minimum
+mint
+minuend
+minute
+minute of arc
+mips
+mite
+ml
+mm
+mm hg
+modicum
+modulus
+modulus of elasticity
+modulus of rigidity
+moiety
+mol
+moldovan monetary unit
+mole
+monad
+monas
+monetary unit
+mongo
+mongolian monetary unit
+morgen
+moroccan dirham
+moroccan monetary unit
+morsel
+mountain
+mouthful
+mozambique monetary unit
+mt
+much
+muckle
+mug
+mugful
+multiplicand
+multiplier
+multiplier factor
+multitude
+mut
+mutchkin
+mutton
+mutual inductance
+mv
+mx
+myanmar monetary unit
+myg
+mym
+myriad
+myriagram
+myriameter
+myriametre
+n
+nada
+nail
+naira
+nanogram
+nanometer
+nanometre
+nanovolt
+natural number
+naught
+naut mi
+nautical chain
+nautical linear unit
+nautical mile
+neighborhood
+nepalese monetary unit
+nepalese rupee
+net ton
+new zealand dollar
+newton
+ng
+ngultrum
+ngwee
+nibble
+nicaraguan monetary unit
+niger franc
+nigerian monetary unit
+nihil
+nil
+nina from carolina
+nine
+niner
+nineteen
+ninety
+ninth
+nip
+nit
+nix
+nm
+no
+normality
+north korean monetary unit
+north korean won
+norwegian krone
+norwegian monetary unit
+nose
+nothing
+nought
+nucleon number
+null
+number
+number 1
+number one
+numerator
+nut
+nutritionists calorie
+nybble
+obolus
+ocean
+octad
+octal digit
+octane number
+octane rating
+octet
+octonary
+oersted
+ogdoad
+ohm
+oka
+omani monetary unit
+omani rial
+one
+one c
+one million million
+one million million million
+one percent
+one thousand
+one thousand million
+one thousand thousand
+one billionth
+one eighth
+one fifth
+one fourth
+one half
+one hundredth
+one millionth
+one ninth
+one quadrillionth
+one quintillionth
+one seventh
+one sixth
+one sixtieth
+one tenth
+one third
+one thousandth
+one trillionth
+oodles
+ordinal
+ordinal number
+ore
+ouguiya
+ounce
+outage
+output
+oxidation number
+oxidation state
+oxtant
+oz
+pa
+paanga
+pace
+pack
+pail
+pailful
+pain unit
+pair
+paisa
+pakistani monetary unit
+pakistani rupee
+palm
+panamanian monetary unit
+papuan monetary unit
+par
+para
+paraguayan monetary unit
+parity
+parity bit
+parking
+parsec
+partition
+pascal
+pataca
+pdl
+peak
+peck
+pengo
+penni
+pennorth
+penny
+pennyweight
+pennyworth
+pentad
+perch
+peruvian monetary unit
+peseta
+pesewa
+peso
+petabyte
+pfennig
+philippine monetary unit
+philippine peso
+phoebe
+phon
+phot
+pi
+piaster
+piastre
+pica
+pica em
+pick
+picking
+picofarad
+picometer
+picometre
+picovolt
+picul
+pile
+piles
+pinch
+pinnish mark
+pint
+pipeful
+pitcher
+pitcherful
+plancks constant
+plate
+plateful
+plenty
+plurality
+pocketful
+point
+point of accumulation
+point system
+poise
+pole
+polish monetary unit
+pollen count
+pood
+population
+portuguese escudo
+portuguese monetary unit
+pot
+potential unit
+potful
+pound
+pound sterling
+poundal
+pounder
+pounds per square inch
+power unit
+precipitation
+pressure unit
+prime
+prime factor
+prime number
+prime quantity
+printing unit
+production
+proof
+proper fraction
+psi
+pul
+pula
+pulmonary reserve
+punt
+pure imaginary number
+pya
+qatari dirham
+qatari monetary unit
+qatari riyal
+qepiq
+qindarka
+qintar
+quadrant
+quadrillion
+quadrillionth
+quadruplet
+quantity unit
+quart
+quarter
+quarter mile
+quarter section
+quartern
+quartet
+quartic
+quatern
+quaternary
+quaternion
+quaternity
+quetzal
+quid
+quint
+quintal
+quintet
+quintillion
+quintillionth
+quintuplet
+quire
+quite a little
+quota
+quotient
+qurush
+r
+rad
+radian
+radioactivity unit
+radix
+raft
+rafts
+rand
+range
+rankine
+rational number
+real
+real number
+ream
+reciprocal ohm
+record
+recurring decimal
+reflectance
+reflection factor
+reflectivity
+region
+relative majority
+relative quantity
+rem
+remainder
+repeating decimal
+reserve
+reservoir
+resistance unit
+rial
+riel
+right angle
+ringgit
+riyal
+riyal omani
+rod
+roentgen
+roman mile
+roman pace
+romanian monetary unit
+room
+roomful
+root
+rotl
+rouble
+rubel
+ruble
+run
+rupee
+rupiah
+russian monetary unit
+rutherford
+rwanda franc
+rydberg
+rydberg constant
+rydberg unit
+s
+s t p
+sabin
+sack
+sackful
+santims
+sao thome e principe monetary unit
+satang
+saudi arabian monetary unit
+saudi arabian riyal
+scads
+scale factor
+scattering
+schilling
+schtick
+schtickl
+schtik
+schtikl
+scintilla
+scoop
+scoopful
+score
+scores
+scruple
+sea
+sea mile
+sea room
+second
+second power
+secpar
+section
+sector
+self inductance
+sen
+sene
+senegalese franc
+seniti
+sent
+sente
+septet
+sestet
+set point
+seven
+sevener
+seventeen
+seventh
+seventy
+sextant
+sextet
+sextuplet
+seychelles monetary unit
+seychelles rupee
+shade
+shekel
+shelfful
+shilling
+shipload
+shit
+shoe string
+shoeful
+shoestring
+short hundredweight
+short ton
+shot
+shovel
+shovelful
+shred
+shtick
+shtickl
+shtik
+shtikl
+si
+si system
+siemens
+sierra leone monetary unit
+sight
+significant digit
+significant figure
+simple fraction
+singapore dollar
+single
+singleton
+sise
+six
+sixer
+sixteen
+sixth
+sixtieth
+sixty
+skeleton
+skepful
+slew
+slews
+slovakian monetary unit
+small calorie
+small fortune
+small indefinite amount
+small indefinite quantity
+smattering
+smidge
+smidgen
+smidgeon
+smidgin
+snake eyes
+snuff
+solubility
+som
+somalian monetary unit
+somalian shilling
+sone
+sound unit
+soupcon
+south african monetary unit
+south korean monetary unit
+south korean won
+spadeful
+span
+spanish monetary unit
+spanish peseta
+spark
+spate
+speck
+sperm count
+spillage
+splash
+splatter
+split
+spoilage
+spoon
+spoonful
+spot
+spray
+spraying
+sprinkling
+sq ft
+sq in
+sq yd
+square
+square foot
+square inch
+square measure
+square meter
+square metre
+square mile
+square root
+square yard
+squat
+sr
+sri lanka rupee
+sri lankan monetary unit
+stack
+stacks
+standard
+standard atmosphere
+standard candle
+standard pressure
+standard temperature
+stat mi
+statute mile
+step
+steradian
+sthene
+stone
+stones throw
+stotinka
+stp
+straight angle
+stride
+subtrahend
+subunit
+sucre
+sudanese monetary unit
+sudanese pound
+sufficiency
+suggestion
+sum
+supply
+surinamese monetary unit
+swath
+swaziland monetary unit
+swedish krona
+swedish mile
+swedish monetary unit
+sweet fanny adams
+swiss franc
+syrian monetary unit
+syrian pound
+system of measurement
+system of weights
+system of weights and measures
+systeme international
+systeme international dunites
+t
+tablespoon
+tablespoonful
+tad
+tael
+taiwan dollar
+tajikistani monetary unit
+taka
+tala
+tambala
+tanga
+tank
+tankage
+tankful
+tanzanian monetary unit
+tanzanian shilling
+tb
+teacup
+teacupful
+teaspoon
+teaspoonful
+teens
+telephone unit
+temperature unit
+ten
+ten percent
+ten thousand
+tenge
+tenner
+tenth
+tenth part
+terabyte
+teraflop
+tercet
+ternary
+ternion
+terzetto
+tesla
+tetrad
+tetri
+thai monetary unit
+thebe
+therm
+thimble
+thimbleful
+third
+third power
+thirteen
+thirty
+thou
+thousand
+thousandth
+three
+three fourths
+threesome
+tical
+tidy sum
+tierce
+time scale factor
+tinge
+tittle
+tiyin
+tod
+toea
+togo franc
+ton
+tongan monetary unit
+tonne
+tons
+top up
+torr
+torrent
+tot
+touch
+toxicity
+trace
+trainload
+transcendental number
+transmission
+transmittance
+trey
+triad
+trillion
+trillion floating point operations per second
+trillions
+trillionth
+trine
+trinidad and tobago dollar
+trinity
+trio
+triplet
+troika
+troy
+troy ounce
+troy pound
+troy unit
+troy weight
+tub
+tubful
+tughrik
+tugrik
+tunisian dinar
+tunisian dirham
+tunisian monetary unit
+turkish lira
+turkish monetary unit
+turkmen monetary unit
+tuvalu dollar
+twain
+twelve
+twenty
+twenty percent
+twenty eight
+twenty five
+twenty five percent
+twenty four
+twenty nine
+twenty one
+twenty seven
+twenty six
+twenty three
+twenty two
+two
+two dozen
+twosome
+two thirds
+tyiyn
+tyyn
+ugandan monetary unit
+ugandan shilling
+ukranian monetary unit
+ullage
+unformatted capacity
+unit
+unit of measurement
+unit of viscosity
+united arab emirate dirham
+united arab emirate monetary unit
+united states customary system
+united states dollar
+united states dry unit
+united states liquid unit
+unity
+universal gas constant
+universal gravitational constant
+upper limit
+uruguayan monetary unit
+uruguayan peso
+utility
+uzbekistani monetary unit
+v
+var
+vara
+venezuelan monetary unit
+verst
+vi
+vietnamese monetary unit
+vii
+viii
+vital capacity
+volt
+volt ampere
+volume
+volume unit
+w
+wad
+wads
+watt
+watt second
+watt hour
+wave number
+way
+wb
+weber
+weight
+weight unit
+weighting
+welterweight
+western samoan monetary unit
+whisker
+whit
+whole lot
+whole number
+whole slew
+won
+word
+work unit
+worth
+x
+xc
+xi
+xii
+xiii
+xiv
+xix
+xl
+xv
+xvi
+xvii
+xviii
+xx
+xxi
+xxii
+xxiii
+xxiv
+xxix
+xxv
+xxvi
+xxvii
+xxviii
+xxx
+yard
+yarder
+yemeni fils
+yemeni monetary unit
+yemeni rial
+yen
+yield
+yoke
+youngs modulus
+yuan
+yugoslavian dinar
+yugoslavian monetary unit
+zaire
+zairese monetary unit
+zambian kwacha
+zambian monetary unit
+zero
+zilch
+zillions
+zimbabwean dollar
+zip
+zloty

@@ -1,0 +1,646 @@
+acetify
+ache
+acidify
+acidulate
+act up
+admire
+advert
+aerate
+air
+air out
+appear
+apperceive
+aromatise
+aromatize
+attaint
+attend
+auscultate
+autopsy
+b
+babble
+backfire
+bang
+beacon
+beam
+beat
+beat down
+becloud
+bedaze
+bedazzle
+beep
+befog
+behold
+bench
+benumb
+besot
+bethink
+birr
+bite
+bitter
+blare
+blast
+bleep
+blind
+blink
+block
+blow
+blunt
+blur
+bob under
+bombilate
+bombinate
+bong
+boom
+boom out
+bosom
+brandish
+brattle
+brighten
+bring forth
+bring on
+bring out
+bubble
+bug
+burble
+burn
+bury
+buzz
+c
+camouflage
+candle
+candy
+case
+catch
+catch a glimpse
+cause to be perceived
+cense
+chafe
+change intensity
+change taste
+chatter
+chime
+chink
+chiromance
+chug
+clack
+clang
+clangor
+clangour
+clank
+clatter
+claxon
+clear
+click
+clink
+clitter
+cloak
+clop
+close
+cloud
+clump
+clunk
+come
+come across
+come to
+comprehend
+conceal
+condemn
+consider
+consonate
+contemplate
+cover
+cover up
+crack
+crackle
+creak
+crepitate
+crop up
+cruise
+crump
+curry
+cut
+d
+damp
+dampen
+darken
+daze
+dazzle
+deaf
+deafen
+demo
+demonstrate
+deodorise
+deodorize
+deodourise
+descry
+desensitise
+desensitize
+detect
+develop
+die
+dim
+din
+ding
+dingdong
+dip
+disappear
+discern
+disclose
+discover
+discriminate
+disguise
+disgust
+disorient
+disorientate
+display
+dissemble
+dissimulate
+dissonate
+distinguish
+divine
+do justice
+dong
+dream
+drone
+drown out
+drum
+dulcify
+dulcorate
+dull
+e
+earth
+eavesdrop
+echo
+eclipse
+edulcorate
+endure
+enjoy
+espy
+examine
+excavate
+excite
+exhibit
+experience
+expose
+express
+eye
+eyeball
+f
+face
+feel
+fellate
+film over
+find
+fixate
+flash
+flaunt
+flavor
+flavour
+flex
+flick
+flicker
+flip
+fluoresce
+fly
+focus
+fog
+follow
+fret
+fume
+fumigate
+gag
+gall
+gape
+gawk
+gawp
+gaze
+get
+get a load
+get a look
+get a noseful
+get a whiff
+get off
+ginger
+give ear
+give the eye
+give the glad eye
+give the once over
+glance
+glance over
+glare
+glass
+glaze
+glaze over
+gleam
+glimmer
+glimpse
+glint
+glisten
+glitter
+gloat
+gloss over
+glow
+glug
+go
+go away
+go down on
+go through
+goggle
+gong
+greet
+gross out
+grumble
+guggle
+guide
+guide on
+gurgle
+hallucinate
+hang
+harbor
+harbour
+hark
+harken
+have
+have a look
+haze over
+hear
+hear out
+hearken
+hide
+hide out
+hit
+hold back
+hold in
+hold up
+hole up
+honey
+honk
+horripilate
+hum
+hunger
+hunker down
+hurt
+hush
+hush up
+ignore
+incense
+incline
+insolate
+inspect
+instantiate
+intercept
+itch
+jangle
+jingle
+jingle jangle
+keep ones eyes open
+keep ones eyes peeled
+keep ones eyes skinned
+kill
+knell
+knock
+lap
+lay eyes on
+leaf
+leer
+lie low
+listen
+listen in
+look
+look after
+look around
+look at
+look away
+look back
+look backward
+look on
+look out
+lose
+louden
+make
+make noise
+make out
+mark
+mask
+masquerade
+meet
+misperceive
+miss
+mist
+model
+monitor
+moon
+muffle
+mull
+mute
+muzzle
+nauseate
+nettle
+noise
+nose
+nose out
+note
+notice
+numb
+obnubilate
+obscure
+observe
+obstruct
+occult
+odorize
+odourise
+offer
+ogle
+open
+orient
+orientate
+ostentate
+outface
+outstare
+overexpose
+overhear
+overlook
+overshadow
+pass off
+pass up
+patter
+pay heed
+peal
+peek
+peep
+peer
+pepper
+perambulate
+perceive
+perfume
+peruse
+photosensitise
+photosensitize
+pick out
+pick up
+pierce
+ping
+pink
+pipe down
+pitter patter
+plunk
+poke
+pop
+pop up
+pose
+posture
+prepare
+present
+preview
+prick
+prickle
+produce
+project
+prospect
+pry
+purr
+put
+quicken
+quiesce
+quiet
+quiet down
+quieten
+racket
+radiate
+rake
+ramp
+rap
+rattle
+reach ones nostrils
+receive
+recognise
+recognize
+reconnoiter
+reconnoitre
+record
+redevelop
+rediscover
+redound
+reecho
+reek
+reflect
+refocus
+refract
+regard
+register
+reorient
+reorientate
+repel
+resinate
+resolve
+resonate
+resound
+reveal
+reverberate
+revolt
+ride herd on
+riff
+riffle
+ring
+ring out
+ripple
+roll
+rub
+rubberneck
+ruckle
+rumble
+run down
+rustle
+saccharify
+salt
+salute
+savor
+savour
+scan
+scent
+scent out
+scintillate
+scout
+scratch
+screak
+scream
+screech
+screen
+scrunch
+scrutinise
+scrutinize
+search
+season
+secrete
+see
+see double
+see through
+seel
+seem
+sense
+sensitise
+sensitize
+sharpen
+shield
+shine
+shipwreck
+shoot
+show
+show off
+show up
+sicken
+sight
+silhouette
+sit
+size up
+skim
+skirl
+skreak
+sleek over
+slosh
+slush
+smack
+smart
+smell
+smell out
+smell up
+snap
+sniff
+sniff out
+snow blind
+snuff
+snuffle
+soften
+solarise
+solarize
+sound
+sour
+spangle
+speak
+spectate
+spice
+spice up
+splash
+splat
+splosh
+splurge
+spot
+spring
+sputter
+spy
+squeak
+squelch
+squint
+stamp
+stare
+stare down
+stargaze
+stimulate
+sting
+stink
+stink out
+stink up
+stir
+stow away
+stridulate
+strike
+strum
+study
+stun
+stupefy
+subject
+suffer
+sugar
+sugarcoat
+sun
+supervise
+surveil
+survey
+swank
+sweeten
+swish
+swoosh
+swosh
+take
+take a look
+take heed
+take in
+take note
+take notice
+take stock
+tap
+taste
+tell apart
+thirst
+thrill
+throb
+thrum
+thud
+thumb
+thump
+thurify
+tick
+tickle
+ticktack
+ticktock
+ting
+tingle
+tink
+tinkle
+tintinnabulate
+titillate
+tolerate
+toll
+tone down
+toot
+tootle
+touch
+trace
+track
+trot out
+trump
+tune in
+turn on
+turn ones stomach
+twang
+tweet
+twinge
+twinkle
+twirp
+uncover
+underdevelop
+underexpose
+undergo
+unearth
+unfold
+unveil
+urticate
+vanish
+vellicate
+ventilate
+vet
+vibrate
+view
+visualise
+visualize
+vitriol
+watch
+watch out
+whet
+whiff
+whir
+whirr
+whish
+whistle
+whitewash
+whiz
+whizz
+wind
+wink
+winkle
+wiretap
+witness
+work
+x ray
+zest
+zoom in

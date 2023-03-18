@@ -1,0 +1,1105 @@
+ablation
+abrasion
+abscission
+absorption
+accession
+acclimation
+acclimatisation
+acclimatization
+accouchement
+accretion
+accumulation
+acetylation
+acheson process
+acid base balance
+acid base equilibrium
+acidification
+action
+activation
+active birth
+active transport
+activity
+acylation
+adaptation
+addition reaction
+adiabatic process
+adjustment
+administrative data processing
+adp
+adsorption
+advection
+aeration
+agamogenesis
+ageing
+agenesia
+agenesis
+agglutinating activity
+agglutination
+aging
+aldol reaction
+alluvion
+alpha decay
+alternative birth
+alternative birthing
+amelogenesis
+americanisation
+americanization
+amitosis
+ammonification
+amphimixis
+amylolysis
+anabolism
+anaglyphy
+anamorphism
+anamorphosis
+anaphase
+anastalsis
+androgenesis
+androgeny
+angiogenesis
+anisogamy
+anovulation
+anthesis
+anthropogenesis
+anthropogeny
+antiredeposition
+antisepsis
+aphaeresis
+apheresis
+aphesis
+apogamy
+apomixis
+apposition
+asepsis
+asexual reproduction
+assibilation
+assimilation
+association
+asynchronous operation
+attack
+attrition
+autocatalysis
+autolysis
+automatic data processing
+autoradiography
+autoregulation
+autotype
+autotypy
+auxesis
+auxiliary operation
+background processing
+backgrounding
+backup
+bacteriolysis
+bacteriostasis
+basal metabolic rate
+basal metabolism
+batch processing
+beach erosion
+bed wetting
+beneficiation
+bessemer process
+beta decay
+binary arithmetic operation
+binary operation
+biochemical mechanism
+biogenesis
+biological process
+biosynthesis
+birth
+birthing
+blastogenesis
+blaze
+blazing
+blistering
+blood clotting
+blood coagulation
+bloom
+blooming
+blossoming
+blowing
+blueing
+bluing
+bm
+bmr
+bodily function
+bodily process
+body process
+boiling
+boolean operation
+bottom fermentation
+bowel movement
+bradley method
+bradley method of childbirth
+broadening
+brooding
+budding
+buildup
+burning
+business data processing
+caenogenesis
+cainogenesis
+calcification
+calcination
+calving
+capture
+carbon cycle
+carbonation
+carbonisation
+carbonization
+caries
+carriage return
+carrier electrophoresis
+catabiosis
+catabolism
+catalysis
+catamenia
+cataphoresis
+cavity
+cell division
+cellular division
+cenogenesis
+centrifugation
+chain reaction
+chelation
+chemical action
+chemical change
+chemical equilibrium
+chemical mechanism
+chemical process
+chemical reaction
+chemisorption
+chemosorption
+chemosynthesis
+childbearing
+childbirth
+chilling
+chlorination
+chromatography
+citric acid cycle
+civilisation
+civilization
+cleavage
+climate change
+clotting
+clouding
+clouding up
+coagulation
+cohesion
+cold fusion
+column chromatography
+combustion
+compensation
+computer operation
+concretion
+concurrent execution
+concurrent operation
+condensation
+congealment
+congelation
+conglutination
+consecutive operation
+conspicuous consumption
+constructive metabolism
+consumption
+contact action
+control function
+control operation
+convalescence
+convection
+conversion
+cooling
+corrasion
+corroding
+corrosion
+corruption
+cost pull inflation
+cracking
+crossing over
+crossover
+curdling
+curing
+cyanide process
+cytogenesis
+cytogeny
+cytokinesis
+cytolysis
+data mining
+data processing
+dealignment
+deamination
+deaminization
+decalcification
+decarboxylation
+decay
+decentalisation
+decentralization
+declension
+decline
+decline in quality
+decoction mashing
+decoction process
+decomposition
+decomposition reaction
+decrease
+decrement
+dedifferentiation
+deepening
+defecation
+defence
+defence mechanism
+defence reaction
+defense
+defense mechanism
+defense reaction
+defining
+deflagration
+deflation
+defoliation
+degaussing
+degeneration
+dehydration
+de iodination
+deletion
+demagnetisation
+demagnetization
+demand
+demand pull inflation
+demineralisation
+demineralization
+denazification
+de nazification
+denial
+dental caries
+dentition
+deossification
+deposit
+deposition
+derivation
+desalination
+desalinisation
+desalinization
+desensitisation
+desensitization
+desertification
+desiccation
+desorption
+destalinisation
+de stalinisation
+destalinization
+de stalinization
+destructive distillation
+destructive metabolism
+deterioration
+detrition
+developing
+development
+devolution
+diakinesis
+diaphoresis
+diastrophism
+dielectrolysis
+differentiation
+diffusion
+digestion
+digital photography
+dilapidation
+diminution
+diplotene
+discharge
+disinflation
+disintegration
+displacement
+displacement reaction
+dissimilation
+dissociation
+dissolution
+dissolving
+distillation
+distillment
+distributed data processing
+dithering
+domestication
+double decomposition
+double decomposition reaction
+double replacement reaction
+doubling
+drift
+drop off
+drying up
+dump
+dyadic operation
+eating away
+ebb
+ebbing
+eburnation
+ecchymosis
+ecdysis
+ecesis
+eclipsis
+ecological succession
+economic consumption
+economic growth
+economic process
+edp
+effacement
+effervescence
+efflorescence
+effluence
+efflux
+egg laying
+ejaculation
+electrodeposition
+electrolysis
+electronic data processing
+electrophoresis
+elimination
+elimination reaction
+elision
+ellipsis
+elution
+emergent evolution
+emission
+encapsulation
+encrustation
+endoergic reaction
+endothermic reaction
+enuresis
+epigenesis
+epilation
+epistasis
+epitaxy
+equilibrium
+eroding
+erosion
+erythropoiesis
+establishment
+europeanisation
+europeanization
+evacuation
+evaporation
+evolution
+excreting
+excretion
+execution
+exoergic reaction
+exothermic reaction
+expectoration
+expelling
+exponential decay
+exponential return
+expression
+extinction
+extraction
+extravasation
+falling off
+falloff
+farrow
+farrowing
+fat metabolism
+feedback
+feminisation
+feminization
+ferment
+fermentation
+fermenting
+festering
+fibrinolysis
+field emission
+filling
+filtration
+fire
+fission
+fissiparity
+fixed cycle operation
+flame
+flaming
+flare
+floating point operation
+flocculation
+flop
+florescence
+flow
+flowage
+flowering
+focalisation
+focalization
+folding
+foliation
+foreground processing
+foregrounding
+formation
+fossilisation
+fossilization
+fractional distillation
+fractional process
+fractionation
+fragmentation
+freeze
+freeze drying
+freezing
+frost
+fructification
+functioning
+fusion
+galactosis
+galvanisation
+galvanization
+gametogenesis
+gasification
+gassing
+gastric digestion
+gastrulation
+gemmation
+geologic process
+geological process
+germination
+giving birth
+glaciation
+global climate change
+global warming
+globalisation
+globalization
+glycogenesis
+glycolysis
+growing
+growth
+gynogenesis
+haber process
+haber bosch process
+haemagglutination
+haematochezia
+haematogenesis
+haematolysis
+haematopoiesis
+haemogenesis
+haemolysis
+haemopoiesis
+hardening
+hatch
+hatching
+healing
+heat dissipation
+heating
+hemagglutination
+hematochezia
+hematogenesis
+hematolysis
+hematopoiesis
+hemimetabolism
+hemimetaboly
+hemimetamorphosis
+hemogenesis
+hemolysis
+hemopoiesis
+heredity
+heterospory
+hidrosis
+holometabolism
+holometaboly
+homospory
+human process
+humification
+hydration
+hydrocracking
+hydrogenation
+hydrolysis
+hyperhidrosis
+hyperidrosis
+hypermenorrhea
+hypersecretion
+hypostasis
+icing
+idealisation
+idealization
+idp
+ignition
+imbibition
+immunoelectrophoresis
+implantation
+impregnation
+inactivation
+incontinence
+incontinency
+increase
+increment
+incrustation
+incubation
+indentation
+induction
+induction heating
+industrial process
+indweller
+infection
+infiltration
+inflation
+inflationary spiral
+inflorescence
+inflow
+influx
+infolding
+infrigidation
+infructescence
+infusion
+inhibition
+inpour
+inpouring
+inrush
+inspissation
+instruction execution
+insufflation
+integrated data processing
+intellectualisation
+intellectualization
+internal combustion
+introversion
+intrusion
+intumescence
+intumescency
+intussusception
+invagination
+inversion
+involution
+iodination
+ion exchange
+ionisation
+ionization
+ionophoresis
+irreversible process
+irruption
+isoagglutination
+isogamy
+isolation
+iteration
+juvenescence
+kainogenesis
+karyokinesis
+karyolysis
+katabolism
+katamorphism
+kenogenesis
+keratinisation
+keratinization
+krebs citric acid cycle
+krebs cycle
+lachrymation
+lacrimation
+lactation
+lamaze method
+lamaze method of childbirth
+laxation
+laying
+leach
+leaching
+leafing
+leak
+leboyer method
+leboyer method of childbirth
+leeway
+leptotene
+lexicalisation
+lexicalization
+libration
+life cycle
+light reaction
+line feed
+linguistic process
+liquefaction
+list processing
+lithuresis
+logic operation
+logical operation
+lookup
+loop
+looping
+loss
+lymphopoiesis
+lyophilisation
+lyophilization
+lysis
+lysogenisation
+lysogenization
+maceration
+machine operation
+macroevolution
+macular degeneration
+magnetic induction
+magnetisation
+magnetization
+majority operation
+making water
+malabsorption
+marginalisation
+marginalization
+market forces
+markoff chain
+markoff process
+markov chain
+markov process
+masculinisation
+masculinization
+materialisation
+materialization
+maturation
+maturement
+mechanism
+meiosis
+melioration
+mellowing
+melt
+meltdown
+melting
+menorrhagia
+menses
+menstruation
+menstruum
+metabolic process
+metabolism
+metamorphism
+metamorphosis
+metaphase
+metastasis
+metathesis
+microevolution
+microphoning
+micturition
+mildew
+mineral dressing
+mineral extraction
+mineral processing
+miosis
+mitosis
+mold
+molt
+molting
+monadic operation
+monogenesis
+morphallaxis
+morphogenesis
+moult
+moulting
+movement
+multiplex operation
+multiplication
+multiprocessing
+multiprogramming
+mutual induction
+myelinisation
+myelinization
+n
+narrowing
+natural action
+natural childbirth
+natural process
+natural selection
+nazification
+necrolysis
+negative feedback
+neoplasia
+neurogenesis
+neutralisation
+neutralisation reaction
+neutralization
+neutralization reaction
+new line
+nidation
+nitrification
+nitrogen cycle
+nitrogen fixation
+nocturia
+nocturnal emission
+nondevelopment
+nondisjunction
+nuclear fission
+nuclear fusion
+nuclear fusion reaction
+nuclear meltdown
+nuclear reaction
+nucleosynthesis
+nutrition
+nycturia
+obsolescence
+odontiasis
+off line operation
+oligomenorrhea
+oliguria
+omission
+ontogenesis
+ontogeny
+oogenesis
+opacification
+open hearth process
+operation
+opsonisation
+opsonization
+ore dressing
+ore processing
+organic process
+organification
+orogeny
+oscillation
+osmosis
+ossification
+osteolysis
+outflow
+overactivity
+overcompensation
+overflow incontinence
+overheating
+ovulation
+oxidation
+oxidation reduction
+oxidative phosphorylation
+oxidisation
+oxidization
+oxidoreduction
+oxygenation
+pachytene
+pair creation
+pair formation
+pair production
+palingenesis
+paper chromatography
+paper electrophoresis
+parallel operation
+parallel processing
+parthenocarpy
+parthenogenesis
+parthenogeny
+parturition
+passing water
+passive transport
+pathogenesis
+pathologic process
+pathological process
+peace process
+pee
+peeing
+peptisation
+peptization
+percolation
+perennation
+performance
+period
+peristalsis
+permeation
+perspiration
+pervasion
+petrifaction
+petrification
+phagocytosis
+phase change
+phase of cell division
+phase transition
+photochemical reaction
+photoelectric emission
+photography
+photomechanics
+photoplatemaking
+photosynthesis
+phylogenesis
+phylogeny
+physical change
+pigmentation
+pinocytosis
+piss
+pissing
+pitting
+placentation
+planation
+plastination
+polyhidrosis
+polymerisation
+polymerization
+population growth
+positive feedback
+potentiation
+powder method
+powder photography
+powder technique
+precession of the equinoxes
+prechlorination
+precipitation
+precocious dentition
+premature ejaculation
+preservation
+printing operation
+priority processing
+process
+processing
+professionalisation
+professionalization
+projection
+proliferation
+prophase
+protein folding
+proteolysis
+psilosis
+psychoanalytic process
+psychomotor development
+psychosexual development
+ptyalism
+pullulation
+purification
+putrefaction
+pyrochemical process
+pyrochemistry
+quadrupling
+quellung
+quellung reaction
+quickening
+quintupling
+radiant heating
+radiation
+radioactive decay
+radioactivity
+radiography
+radiolysis
+rain wash
+rally
+random walk
+rationalisation
+rationalization
+reabsorption
+reaction
+reaction formation
+read method
+read method of childbirth
+real time operation
+real time processing
+recapitulation
+recovery
+rectification
+recuperation
+redeposition
+redox
+reducing
+reduction
+reduction division
+refilling
+refinement
+refining
+reflation
+refrigeration
+regeneration
+regression
+regulation
+relaxation
+relaxation behavior
+release
+remote access data processing
+renewal
+replacement
+replenishment
+replication
+repression
+reproduction
+resorption
+reticulation
+retrieval
+reuptake
+re uptake
+reversible process
+rigidification
+rigidifying
+rigor mortis
+ripening
+rising prices
+riss glaciation
+rooting
+rot
+rotting
+roughness
+ruin
+rust
+rusting
+saale glaciation
+salivation
+saltation
+sanguification
+saponification
+saturation
+scanning
+scattering
+schizogony
+search
+secernment
+secondary emission
+secretion
+segmentation
+segregation
+selection
+self induction
+senescence
+sensitisation
+sensitization
+sequential operation
+sequestration
+serial operation
+serial processing
+sericulture
+set
+sexual reproduction
+shaping
+shedding
+shit
+shitting
+simultaneous operation
+sink
+sinking spell
+skiagraphy
+slack
+slippage
+sloughing
+slump
+smoke
+smoking
+soak
+soakage
+soaking
+soaking up
+social process
+softening
+soil erosion
+solidification
+solidifying
+solvation
+solvay process
+sorption
+sort
+sorting
+source
+souring
+spallation
+specialisation
+specialization
+speciation
+spermatogenesis
+spoilage
+spoiling
+spontaneous combustion
+sporulation
+sprouting
+stagflation
+stalinisation
+stalinization
+state change
+stationary stochastic process
+steel production
+stiffening
+stimulation
+stochastic process
+storage
+stovepiping
+stratification
+stress incontinence
+subduction
+succession
+sudation
+suffusion
+summation
+superposition
+supply
+suppression
+suppuration
+surface assimilation
+survival
+survival of the fittest
+sweating
+swelling
+symphysis
+synaeresis
+synapsis
+synchronous operation
+syncretism
+syneresis
+synergism
+synergy
+synezesis
+synizesis
+synthesis
+tanning
+tearing
+teething
+teleprocessing
+telophase
+temperature change
+temperature reduction
+teratogenesis
+thaw
+thawing
+thermal emission
+thermionic emission
+thermocoagulation
+thermonuclear reaction
+threshold operation
+thrombolysis
+tooth decay
+top fermentation
+transamination
+transcription
+transduction
+translation
+translocation
+transpiration
+transport
+tricarboxylic acid cycle
+tripling
+tumefaction
+ulceration
+ultracentrifugation
+unary operation
+underdevelopment
+unfolding
+union
+uptake
+urbanisation
+urbanization
+urge incontinence
+urinary incontinence
+urination
+urochesia
+urochezia
+usance
+use
+use of goods and services
+vaginal birth
+vapor
+vaporisation
+vaporization
+vapour
+vascularisation
+vascularization
+vegetation
+vermiculation
+vesication
+vesiculation
+vicious circle
+vicious cycle
+video digitizing
+vinification
+virgin birth
+virilisation
+virilization
+vitrification
+voiding
+vulcanisation
+vulcanization
+wane
+warming
+wash
+washout
+wastage
+watering
+wearing
+wearing away
+westernisation
+westernization
+wetting
+widening
+wolstonian glaciation
+word processing
+worsening
+zygotene
+zymolysis
+zymosis
