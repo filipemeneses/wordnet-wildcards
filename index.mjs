@@ -86,7 +86,7 @@ const createFiles = (nodes, currentPath = '', parentNode) => {
 
       const fullPath = resolve(
         __dirname,
-        'wildcards',
+        'wordnet-wildcards',
         currentPath,
       );
 
